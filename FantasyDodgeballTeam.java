@@ -38,23 +38,23 @@ public class FantasyDodgeballTeam {
       
       
    //methods
-   public static int rankTeam(int teamPoints){
+   public int rankTeam(int teamPoints){
    // will rank teams based on their points
       return 0;
    }
-   public static int getTeamPoints(){
+   public int getTeamPoints(){
    // will get the private teamPoints variable
       return 0;
    }
-   public static int addPoints(int points){
+   public int addPoints(int points){
    // will add points to a team's teamPoints variable
       return 0;
    }
-   public static int removePoints(){
+   public int removePoints(){
    // will remove points to a team's teamPoints variable
       return 0;
    }
-   public static double rewardCash(){
+   public double rewardCash(){
    // will calculate how many winnings each team earns from the prize pool
    // teamWinnings = (totalMoneyPot * (1.5 - 1) * (Math.pow(1.5, (totalTeams - teamRank))))/(Math.pow(1.5, totalTeams) - 1);
       return 0;
